@@ -19,4 +19,8 @@ Source Control Technology: GitHub
 Application Deployment: Google Cloud 
 
 How it would meet the minimum requirements: This is the first big step and a outline of what we will set up and execute along with the plans and ideas of my fellow classmates.
+______________________________________________________________________________________________________________________________________________________________________________
 
+What was done: Made a background and a clickable button.
+
+What is needed to be done: A log in page, a home page, and a nav bar for the home page with a profile.
