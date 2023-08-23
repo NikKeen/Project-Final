@@ -23,4 +23,5 @@ ________________________________________________________________________________
 
 What was done: Made a background and a clickable button.
 
-What is needed to be done: A log in page, a home page, and a nav bar for the home page with a profile and a messages from attorney to client (similar to a chat feature from LinkdIn) as well a small personal email that cleints can use securely to send over important documents to attorney's as well as receiving any sort of documention from their attorney's and paralegals. Contain a SQL Database to contain the login's and passwords and emails connected to the client and the attorney's, paralegals, admins, and those that update the database and website.
+What is needed to be done: A log in page, a home page, and a nav bar for the home page with a profile and a messages from attorney to client (similar to a chat feature from LinkdIn) as well a small personal email that cleints can use securely to send over important documents to attorney's as well as receiving any sort of documention from their attorney's and paralegals.
+Contain a SQL Database to contain the login's and passwords and emails connected to the client and the attorney's, paralegals, admins, and those that update the database and website.
