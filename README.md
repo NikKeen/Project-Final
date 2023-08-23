@@ -26,3 +26,8 @@ What was done: Made a background and a clickable button.
 What is needed to be done: A log in page, a home page, and a nav bar for the home page with a profile and a messages from attorney to client (similar to a chat feature from LinkdIn) as well a small personal email that cleints can use securely to send over important documents to attorney's as well as receiving any sort of documention from their attorney's and paralegals. Contain a SQL Database to contain the login's and passwords and emails connected to the client and the attorney's, paralegals, admins, and those that update the database and website.
 
 CSS organization, making sure that everything is nice and together, install some borders and boxes, make sure the website is responsive to client. The colors of the page will be focused on: Gold, Black, Dark Blue. 
+
+Setting up security and token-authetication for attorneys, lawers, managers, admins, and software engineers/developers.
+
+Add some finishing touches as we run multiple tests to check for bugs and any other sort of issues that may pop up before submitting the project.
+
